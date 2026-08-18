@@ -1,0 +1,19 @@
+{
+  "name": "gas-blog-headless",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Backend en Google Apps Script para un blog que usa Google Drive como CMS.",
+  "scripts": {
+    "login": "clasp login",
+    "create": "clasp create --type webapp --rootDir .",
+    "clone": "clasp clone",
+    "pull": "clasp pull",
+    "push": "clasp push",
+    "status": "clasp status",
+    "open": "clasp open",
+    "deploy": "clasp deploy"
+  },
+  "devDependencies": {
+    "@google/clasp": "^3.3.0"
+  }
+}

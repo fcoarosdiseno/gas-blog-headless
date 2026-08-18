@@ -1,0 +1,12 @@
+**/**
+!appsscript.json
+!doGet.js
+!buildIndex.js
+!indexCache.js
+!filterAndPaginate.js
+!getPost.js
+!getImages.js
+!frontmatter.js
+!config.js
+!benchmarks.js
+!feeds.js

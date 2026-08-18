@@ -1,0 +1,12 @@
+# Config local de herramientas de IA / editor — nunca debería publicarse
+.claude/
+.vscode/
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+*:Zone.Identifier
+
+# clasp — .clasp.json tiene el scriptId de TU proyecto, no debería compartirse
+.clasp.json
+node_modules/
